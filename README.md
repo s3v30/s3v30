@@ -1,7 +1,30 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=27&duration=3000&pause=600&color=630000&background=FFFFFF00&width=435&lines=What's+up+!+My+name+is+ᚢᛞᚪᛞᛁᛗᛁᚱ.;Hope+you+find+something+usefull.)](https://git.io/typing-svg)
+
+
+## 🎆 I'm a Self Learned Hacker | CTF Player
+<p1>
+
+  <img height="230" width="230" align="right" src="https://github.com/s3v30/s3v30/blob/main/code.gif" >
+
+</p1>
+
+
+
+* 🌱 I’m currently learning Windows/AD
+
+* 🔭 I’m currently working on getting PNPT .
+
+* Practicing touch typing, current record 160 Wpm.
+
+* 💬 Ask me about : Why are we afraid to have Hope.
+
+
+
+
 <!--
-**s3v30/s3v30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pat13nt0/Pat13nt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
