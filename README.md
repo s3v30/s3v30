@@ -12,7 +12,7 @@
 
 
 
-* 🌱 I’m currently learning Windows/AD
+* 🌱 I’m currently learning C|Memory|Cpu
 
 * 🔭 I’m currently working on getting PNPT .
 
