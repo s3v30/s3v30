@@ -18,8 +18,6 @@
 
 * Practicing touch typing, current record 160 Wpm.
 
-* 💬 Ask me about : Why are we afraid to have Hope.
-
 
 
 
