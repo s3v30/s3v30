@@ -23,9 +23,9 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" > <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" >
 
 
-## Contact >
+## Contact > 0xdeadbeeff
 
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">0xdeadbeeff
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 
 <!--
 **v/v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
