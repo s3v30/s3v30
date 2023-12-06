@@ -12,11 +12,11 @@
 
 
 
-* 🌱 I’m currently learning  `**x_86 assembly**` | `**Binary_exploitation** `
+* 🌱 I’m currently learning  **`x_86 assembly`** | **`Binary_exploitation`** 
 
-* 🔭 I’m currently working on getting `**PNPT**` .
+* 🔭 I’m currently working on getting **`PNPT`** .
 
-* Practicing touch typing, current record `**160**` Wpm.
+* Practicing touch typing, current record **`160`** Wpm.
 
 ## Skillset >
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" > <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" >
