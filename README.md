@@ -19,14 +19,13 @@
 * Practicing touch typing, current record 160 Wpm.
 
 ## Skillset >
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" >
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" > <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" >
 
 
 
 
 <!--
-**Pat13nt0/Pat13nt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**v/v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
