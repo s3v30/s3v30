@@ -19,6 +19,9 @@
 * Practicing touch typing, current record 160 Wpm.
 
 
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+
+
 
 
 <!--
