@@ -12,7 +12,7 @@
 
 
 
-* 🌱 I’m currently learning C| x_86 assembly | Binary_exploitation 
+* 🌱 I’m currently learning  x_86 assembly | Binary_exploitation 
 
 * 🔭 I’m currently working on getting PNPT .
 
